@@ -19,7 +19,7 @@ defmodule JunElixirTest.Mixfile do
   def application do
     [
       mod: {JunElixirTest.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :gettext]
     ]
   end
 
