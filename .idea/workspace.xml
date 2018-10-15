@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da4d01a9-5424-46d7-8247-9f145cce5e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/jun_elixir_test_web/controllers/page_controller.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jun_elixir_test_web/templates/layout/app.html.eex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jun_elixir_test_web/templates/page/index.html.eex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jun_elixir_test_web/views/layout_view.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jun_elixir_test_web/views/page_view.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="da4d01a9-5424-46d7-8247-9f145cce5e72" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,14 +43,14 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Elixir Script" value="10" />
-          <entry key="Elixir file" value="68" />
+          <entry key="Elixir file" value="69" />
           <entry key="HTML" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ex" value="68" />
+          <entry key="ex" value="69" />
           <entry key="exs" value="10" />
           <entry key="html" value="37" />
         </counts>
@@ -138,8 +131,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/jun_elixir_test_web/views/layout_view.ex">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" selection-start-column="27" selection-end-column="37" />
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -162,8 +155,8 @@
       <find>JunElixirTest</find>
       <find>otp_app</find>
       <find>PageController</find>
-      <find>LayoutView</find>
       <find>templates</find>
+      <find>LayoutView</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -302,19 +295,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539554242026</updated>
-      <workItem from="1539554243205" duration="5265000" />
+      <workItem from="1539554243205" duration="5459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5265000" />
+    <option name="totallyTimeSpent" value="5459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -322,8 +315,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -473,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jun_elixir_test_web/views/layout_view.ex">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="27" selection-end-column="37" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
